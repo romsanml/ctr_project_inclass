@@ -1,5 +1,7 @@
 ctr_project_inclass
 ==============================
+Учебный репозиторий для решения задач MLOps
+
 
 A short description of the project.
 
